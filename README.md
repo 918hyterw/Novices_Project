@@ -1,7 +1,8 @@
 # Novices_Project
 Novices_Project_formal
 
-Project Name: "sexually explicit content detection in a image".
+Project Name: "𝐬𝐞𝐱𝐮𝐚𝐥𝐥𝐲 𝐞𝐱𝐩𝐥𝐢𝐜𝐢𝐭 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐚 𝐢𝐦𝐚𝐠𝐞".
+
 
 
 Project Description: 
