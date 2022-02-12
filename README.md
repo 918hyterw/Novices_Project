@@ -2,6 +2,8 @@
 Novices_Project_formal
 
 Project Name: "sexually explicit content detection in a image".
+
+
 Project Description: 
 In this project , we collect images from different web link. After getting images, we made a .npz file and save into a same folder.
 Also we make all the function related to code on this same folder.We made label according to the images.
