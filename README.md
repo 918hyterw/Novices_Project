@@ -14,14 +14,18 @@ We got around 95% accuracy in this Project.
 All the data set and pre-trained model given through a Drive Link.
 
 Accuracy: 0.9476605868358445
+
 F1 score: 0.946485729226173
+
 Recall: 0.9476605868358445
+
 Precision: 0.9483781735641376
 
  clasification report:
                           precision    recall  f1-score   support
 
     class of Good Image       0.94      0.99      0.96       917
+    
 class of Not Good Image       0.96      0.84      0.90       344
 
                accuracy                           0.95      1261
@@ -30,7 +34,9 @@ class of Not Good Image       0.96      0.84      0.90       344
 
 
  confussion matrix:
+ 
  [[906  11]
+ 
  [ 55 289]]
 
 
