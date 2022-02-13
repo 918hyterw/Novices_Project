@@ -22,9 +22,10 @@ Recall: 0.9476605868358445
 Precision: 0.9483781735641376
 
  clasification report:
-                          precision     recall   f1-score    support
+                          precision         recall        f1-score        support
 
-    class of Good Image       0.94       0.99       0.96        917
+    class of Good Image        0.94          0.99         0.96          917
+    
     
 class of Not Good Image       0.96       0.84        0.90          344
 
@@ -38,6 +39,8 @@ class of Not Good Image       0.96       0.84        0.90          344
  [[906  11]
  
  [ 55 289]]
+ 
+ 
 
 
 
